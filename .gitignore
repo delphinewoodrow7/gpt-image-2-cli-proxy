@@ -1,7 +1,6 @@
 __pycache__/
-*.py[cod]
 .env
-.env.*
-!.env.example
-node_modules/
-dist/
+gptimg-ledger.jsonl
+*.png
+*.jpg
+.DS_Store

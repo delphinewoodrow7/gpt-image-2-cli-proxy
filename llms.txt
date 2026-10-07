@@ -1,8 +1,0 @@
-# GPT Image 2 — Argolink
-
-- Model: gpt-image-2
-- Intent: CLI proxy for image generation
-- Model page: https://argolink.io/gh-gpt-image-2-cli-proxy
-- API docs: https://argolink.io/gh-unified-api-docs
-- Examples: examples/request.sh, examples/client.py
-- Contract: docs/model-contract.md
